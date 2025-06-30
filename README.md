@@ -1,7 +1,7 @@
 # 🚀 LeetCode DSA Journey by Adarsh Singh
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Adarsh-Kumar6534/leetcode-dsa?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Adarsh-Kumar6534/leetcode-dsa?color=brightgreen&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Adarsh-Kumar6534/dsa_leetcode?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Adarsh-Kumar6534/dsa_leetcode?color=brightgreen&style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=Adarsh-Kumar6534&label=Views&style=for-the-badge&color=blue)
 
 ---
